@@ -1,4 +1,4 @@
-
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
 * {
     box-sizing: border-box;
     margin: 0;
@@ -53,7 +53,7 @@ section {
     padding: 40px 20px;
     margin: 20px 0;
     border-radius: 5px;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 0 10px rgba@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');(0, 0, 0, 0.1);
 }
 
 footer {
@@ -76,5 +76,5 @@ width: 615px;
 
 h2{
     font-size: 30px;
-    font-family: cursive;
+    font-family:"Roboto";
 }

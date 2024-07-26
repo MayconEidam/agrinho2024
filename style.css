@@ -7,7 +7,7 @@
 
 
 body {
-    font-family: cursive;
+    
     background-color: #f8f8f8;
     color: #333;
     line-height: 1.6;
@@ -76,4 +76,5 @@ width: 615px;
 
 h2{
     font-size: 30px;
+    font-family: cursive;
 }
